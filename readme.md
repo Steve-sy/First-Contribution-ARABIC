@@ -2325,20 +2325,20 @@
                     <!-- TWITTER -->
                     <td>
                         <a href="https://x.com/mustafa_ramx">
-                            <img src="./images/twitter-logo.png" width="30">
+                            <img src="./images/twitter-logo.png" width="30" target="_blank">
                         </a>
                     </td>
                     <!--// TWITTER //-->
                     <!-- YOUTUBE -->
                     <td>
-                        <a href="https://www.youtube.com/@MostaphaRamadan">
+                        <a href="https://www.youtube.com/@MostaphaRamadan" target="_blank">
                             <img src="./images/youtube-logo.png" width="30">
                         </a>
                     </td>
                     <!--// YOUTUBE //-->
                     <!-- GITHUB -->
                     <td>
-                        <a href="https://github.com/Steve-sy">
+                        <a href="https://github.com/Steve-sy" target="_blank">
                             <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
